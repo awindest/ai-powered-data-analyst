@@ -1,4 +1,4 @@
-### AI Powered Data Analyst
+# AI Powered Data Analyst
 
 Build an AI Data Analyst with LM Studio, Qwen, Prefect and `pydantic-ai` to analyze datasets, detect anomalies and generate insights.
 
@@ -6,11 +6,14 @@ We will show how to build this workflow using Prefect and `pydantic.ai`. The int
 
 ## Setup Flow
 
-# Install LM Studio
+### Install LM Studio
 
-Download from [https://lmstudio.ai](https://lmstudio.ai) and install
+Download from [https://lmstudio.ai](https://lmstudio.ai) and install.
 
-# Install uv
+Click the search for model button and select an appropriate model. I used Qwen3.5 9B for my machine. Download the model. Make sure the format is `GGUF`.
+
+
+### Install uv
 
 Instructions are [here](https://docs.astral.sh/uv/getting-started/installation/).
 
